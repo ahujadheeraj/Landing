@@ -1,0 +1,18 @@
+.Toolbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 70px;
+    padding:0 20px;
+    background: linear-gradient(0deg, #41b5cf 0%,rgb(20, 51, 90));
+
+    background-color:rgb(20, 51, 90);
+    z-index: 90;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+

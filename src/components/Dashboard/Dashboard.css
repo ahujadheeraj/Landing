@@ -1,0 +1,33 @@
+.Dashboard{
+    font-family: Avenir Next, sans-serif;
+    background: linear-gradient(90deg, #41b5cf 0%, #659caa 100%);
+    /*background-image: linear-gradient(to right, rgb(201, 235, 243) ,rgb(56, 211, 211));
+    background-image: linear-gradient(to right,#77c3d6 ,rgb(45, 152, 223));*/
+    font-size: 36px;
+    line-height: 20px;
+    letter-spacing: -0.72px;
+    height: 100vh;
+    width: 100%;
+    margin:0;
+    padding:100px;
+    background-color :#41b5cf;
+    color:white;
+}
+
+.Content{
+    font-family: Avenir Next, sans-serif;
+    padding-top :8%;
+    font-size: 48px;
+    line-height: 21spx;
+    letter-spacing: -1px;
+}
+
+.Dashboard button{
+    width:15%;
+    padding:15px;
+    margin:20px;
+    background-color: white;
+}
+button a{
+    color:rgb(134, 211, 241);;
+}
